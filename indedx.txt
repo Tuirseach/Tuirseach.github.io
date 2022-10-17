@@ -10,7 +10,7 @@
 <div><img src="Cheat Sheet.PNG" alt="Cheat Sheet"
 style="width:100%;max-width:960px"></div>
 <p>This is a test file.</p>
-<p>A new line.<p>
+<p>A different new line.</p>
 
 </body>
 </html>
