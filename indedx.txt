@@ -11,6 +11,7 @@
 style="width:100%;max-width:960px"></div>
 <p>This is a test file.</p>
 <p>A new line.<p>
+<p>Merge test line.</p>
 
 </body>
 </html>
